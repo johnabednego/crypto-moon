@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5fd3352f.chunk.css",
-    "main.js": "/static/js/main.ce7f98af.chunk.js",
-    "main.js.map": "/static/js/main.ce7f98af.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.52292fbe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.52292fbe.js.map",
-    "static/js/2.8871bfe5.chunk.js": "/static/js/2.8871bfe5.chunk.js",
-    "static/js/2.8871bfe5.chunk.js.map": "/static/js/2.8871bfe5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5fd3352f.chunk.css.map": "/static/css/main.5fd3352f.chunk.css.map",
-    "static/js/2.8871bfe5.chunk.js.LICENSE.txt": "/static/js/2.8871bfe5.chunk.js.LICENSE.txt"
+    "main.css": "/crypto-moon/static/css/main.5fd3352f.chunk.css",
+    "main.js": "/crypto-moon/static/js/main.ce7f98af.chunk.js",
+    "main.js.map": "/crypto-moon/static/js/main.ce7f98af.chunk.js.map",
+    "runtime-main.js": "/crypto-moon/static/js/runtime-main.65110c5c.js",
+    "runtime-main.js.map": "/crypto-moon/static/js/runtime-main.65110c5c.js.map",
+    "static/js/2.8871bfe5.chunk.js": "/crypto-moon/static/js/2.8871bfe5.chunk.js",
+    "static/js/2.8871bfe5.chunk.js.map": "/crypto-moon/static/js/2.8871bfe5.chunk.js.map",
+    "index.html": "/crypto-moon/index.html",
+    "static/css/main.5fd3352f.chunk.css.map": "/crypto-moon/static/css/main.5fd3352f.chunk.css.map",
+    "static/js/2.8871bfe5.chunk.js.LICENSE.txt": "/crypto-moon/static/js/2.8871bfe5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.52292fbe.js",
+    "static/js/runtime-main.65110c5c.js",
     "static/js/2.8871bfe5.chunk.js",
     "static/css/main.5fd3352f.chunk.css",
     "static/js/main.ce7f98af.chunk.js"
