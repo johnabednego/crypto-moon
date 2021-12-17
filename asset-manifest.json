@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crypto-moon/static/css/main.5fd3352f.chunk.css",
-    "main.js": "/crypto-moon/static/js/main.ce7f98af.chunk.js",
-    "main.js.map": "/crypto-moon/static/js/main.ce7f98af.chunk.js.map",
+    "main.js": "/crypto-moon/static/js/main.9628cf12.chunk.js",
+    "main.js.map": "/crypto-moon/static/js/main.9628cf12.chunk.js.map",
     "runtime-main.js": "/crypto-moon/static/js/runtime-main.65110c5c.js",
     "runtime-main.js.map": "/crypto-moon/static/js/runtime-main.65110c5c.js.map",
     "static/js/2.8871bfe5.chunk.js": "/crypto-moon/static/js/2.8871bfe5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.65110c5c.js",
     "static/js/2.8871bfe5.chunk.js",
     "static/css/main.5fd3352f.chunk.css",
-    "static/js/main.ce7f98af.chunk.js"
+    "static/js/main.9628cf12.chunk.js"
   ]
 }
